@@ -6,6 +6,7 @@ JS file that uses regex to take poker hand history input from the program "omaha
 
 
 ------  Input:  -------------
+
 P1(BB) $580.50    -  VP:38 PFR:0 AF:0.7 W:55|50 STL:0|50 3B:0| CB:|50 N:-184.50 Hands:21
 P2(UTG) $2558.08  -  VP:33 PFR:0 AF:0 W:0| STL:0|0 3B:0| CB:|0 N:-55 Hands:6
 P3(MP) $215.90    -  VP:53 PFR:21 AF:1.7 W:55|67 STL:44|0 3B:0| CB:100|100 N:-15.50 Hands:19
@@ -37,6 +38,7 @@ Me(SB) wins 128.50
 
 
 --------  Returns:  --------------
+
 (BB) $580.50 - VP:38 PFR:0 AF:0.7 W:55|50 STL:0|50 3B:0| CB:|50 N:-184.50 Hands:21
 (UTG) $2558.08 - VP:33 PFR:0 AF:0 W:0| STL:0|0 3B:0| CB:|0 N:-55 Hands:6
 (MP) $215.90 - VP:53 PFR:21 AF:1.7 W:55|67 STL:44|0 3B:0| CB:100|100 N:-15.50 Hands:19
